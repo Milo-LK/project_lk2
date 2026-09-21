@@ -11,11 +11,13 @@
 - **Languages:** SQL
 
 ## 📂 Project Structure
+```text
 project/
 ├── images/         # dashboard images
 ├── queries/        # SQL queries
 ├── workbooks/      # tableau workbook
 └── README.md
+```
 
 ## 🗃️ SQL Architecture
 1. **Data consolidation:** Joined data and aggregated to one row per user per calendar month.
