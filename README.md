@@ -1,4 +1,4 @@
-# Marketing Performance Dashboard
+# Revenue Analysis Dashboard
 
 ## 📌 Summary
 - **Objective:** Develop an interactive marketing dashboard for revenue analysis.
@@ -27,20 +27,17 @@ project/
 
 ## 📊 Dashboard View & Features
 ![Revenue Analysis](images/revenue_analysis.png)
-*Revenue analysis*
 
 ![User & Churn Analysis](images/user_analysis.png)
-*Users & Churn rates*
 
 ![Value & Segments](images/segments.png)
-*Value & Segments*
 
 - **Revenue Analysis:** Revenue movement chart with a parameter-driven selector, paired with a dual-axis ARPPU vs LTV time series.
 - **Users & Churn:** User movement chart with a parameter-driven selector, paired with a Churn Rate vs Revenue Churn Rate dual-line trend.
 - **Value & Segments:** LTV by segment, with a parameter-driven segmentation selector.
 - **KPI Cards:** Persistent across all tabs, showing latest-month value with percentage change vs the prior month.
 - **Filtering:** Global controls for `Game`, `Age`, `Game Language`, and `Month of Year` across all tabs. 
-- **Navigation:** Tab navigation buttons allow switching between "Revenue Analysis," "Users & Churn," and "Value & Segments" views.
+- **Navigation:** Tab navigation buttons allow switching between `Revenue Analysis`, `Users & Churn`, and `Value & Segments` views.
 
 ## 💡 Insights
 > [!NOTE]
